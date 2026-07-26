@@ -1,3 +1,4 @@
                                                  I love them
-<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/e1e91998-7ad5-488f-bb5c-43b064d6a6b3" />
+<img width="735" height="647" alt="image" src="https://github.com/user-attachments/assets/e3e901ce-870e-4041-b2fa-8d5ec58e014a" />
+
 
